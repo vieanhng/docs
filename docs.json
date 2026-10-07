@@ -31,7 +31,15 @@
           "icon": "newspaper"
         }
       ]
-    }
+    },
+    "tabs": [
+      {
+        "tab": "Untitled Tab",
+        "pages": [
+          "huong-dan-su-dung-hoc-sinh"
+        ]
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
