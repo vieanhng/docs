@@ -21,23 +21,9 @@
         ]
       }
     ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    },
     "tabs": [
       {
-        "tab": "Untitled Tab",
+        "tab": "Hướng dẫn dành cho học sinh",
         "pages": [
           "huong-dan-su-dung-hoc-sinh"
         ]
@@ -64,14 +50,9 @@
   "contextual": {
     "options": [
       "copy",
-      "view",
-      "chatgpt",
-      "claude",
-      "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
-    ]
+      "view"
+    ],
+    "display": "toc"
   },
   "footer": {
     "socials": {
