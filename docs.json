@@ -62,6 +62,12 @@
           },
           "huong-dan-su-dung-hoc-sinh"
         ]
+      },
+      {
+        "tab": "Hướng dẫn dành cho giáo viên",
+        "pages": [
+          "123"
+        ]
       }
     ]
   },
