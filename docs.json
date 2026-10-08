@@ -96,7 +96,17 @@
               "tao-phieu-bai-tap-bang-ai",
               "giao-bai-cho-hoc-sinh",
               "xuat-ban-bai-tap",
-              "xem-truoc-mau-phieu-bai-tap"
+              "xem-truoc-mau-phieu-bai-tap",
+              {
+                "group": "Tạo bài tập từ ngân hàng câu hỏi",
+                "icon": "database",
+                "pages": [
+                  "tong-quan-tao-bai-tap-tu-ngan-hang",
+                  "them-cau-hoi-tu-ngan-hang",
+                  "cau-hinh-bai-tap-tu-ngan-hang",
+                  "giao-va-xuat-ban-bai-tap-ngan-hang"
+                ]
+              }
             ]
           },
           {
