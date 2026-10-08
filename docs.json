@@ -28,22 +28,37 @@
           {
             "group": "Bắt đầu",
             "icon": "rocket",
-            "pages": []
+            "pages": [
+              "khuyen-nghi-su-dung-lms",
+              "dang-nhap"
+            ]
           },
           {
             "group": "Học tập",
             "icon": "book-open",
-            "pages": []
+            "pages": [
+              "bat-dau-hoc-tap",
+              "danh-gia-chan-doan-ai",
+              "tu-hoc-voi-ai",
+              "luyen-tap-voi-ai",
+              "lam-bai-tap-giao-vien-giao",
+              "bai-giang-va-phieu-bai-tap"
+            ]
           },
           {
             "group": "Kỳ thi",
             "icon": "clipboard-check",
-            "pages": []
+            "pages": [
+              "tham-gia-ky-thi",
+              "ket-qua-va-lich-su-thi"
+            ]
           },
           {
             "group": "Hỗ trợ",
             "icon": "life-ring",
-            "pages": []
+            "pages": [
+              "lien-he-ho-tro"
+            ]
           },
           "huong-dan-su-dung-hoc-sinh"
         ]
