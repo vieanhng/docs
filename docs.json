@@ -11,6 +11,11 @@
     "light": "/images/VmathAIcolor.png",
     "dark": "/images/VmathAIcolor.png"
   },
+  "integrations": {
+    "gtm": {
+        "tagId": "GTM-TRC8M7W4"
+    }
+  }
   "navigation": {
     "pages": [
       {
