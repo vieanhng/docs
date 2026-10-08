@@ -25,6 +25,26 @@
       {
         "tab": "Hướng dẫn dành cho học sinh",
         "pages": [
+          {
+            "group": "Bắt đầu",
+            "icon": "rocket",
+            "pages": []
+          },
+          {
+            "group": "Học tập",
+            "icon": "book-open",
+            "pages": []
+          },
+          {
+            "group": "Kỳ thi",
+            "icon": "clipboard-check",
+            "pages": []
+          },
+          {
+            "group": "Hỗ trợ",
+            "icon": "life-ring",
+            "pages": []
+          },
           "huong-dan-su-dung-hoc-sinh"
         ]
       }
