@@ -1,5 +1,4 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
   "theme": "maple",
   "name": "VmathAI Docs",
   "colors": {
@@ -7,25 +6,47 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
+  "logo": {
+    "light": "/images/VmathAIcolor.png",
+    "dark": "/images/VmathAIwhite.png"
+  },
   "favicon": {
     "light": "/images/VmathAIcolor.png",
     "dark": "/images/VmathAIcolor.png"
   },
-  "integrations": {
-    "gtm": {
-        "tagId": "GTM-TRC8M7W4"
-    }
-  }
-  "navigation": {
-    "pages": [
+  "navbar": {
+    "links": [
       {
-        "group": "Getting Started",
-        "pages": [
-          "index",
-          "quickstart"
-        ]
+        "href": "mailto:support@mintlify.com",
+        "label": "Support"
       }
     ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://app.mintlify.com"
+    }
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/mintlify",
+      "github": "https://github.com/mintlify",
+      "linkedin": "https://linkedin.com/company/mintlify"
+    }
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view"
+    ],
+    "display": "toc"
+  },
+  "integrations": {
+    "gtm": {
+      "tagId": "GTM-TRC8M7W4"
+    }
+  },
+  "navigation": {
     "tabs": [
       {
         "tab": "Hướng dẫn dành cho học sinh",
@@ -131,36 +152,5 @@
         ]
       }
     ]
-  },
-  "logo": {
-    "light": "/images/VmathAIcolor.png",
-    "dark": "/images/VmathAIwhite.png"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:support@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://app.mintlify.com"
-    }
-  },
-  "contextual": {
-    "options": [
-      "copy",
-      "view"
-    ],
-    "display": "toc"
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
   }
 }
