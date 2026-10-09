@@ -49,12 +49,19 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Tra cứu tài liệu",
+        "pages": [
+          "huong-dan-tra-cuu-tai-lieu"
+        ]
+      },
+      {
         "tab": "Hướng dẫn dành cho học sinh",
         "pages": [
           {
             "group": "Bắt đầu",
             "icon": "rocket",
             "pages": [
+              "huong-dan-su-dung-hoc-sinh",
               "khuyen-nghi-su-dung-lms",
               "dang-nhap"
             ]
@@ -64,9 +71,14 @@
             "icon": "book-open",
             "pages": [
               "bat-dau-hoc-tap",
-              "danh-gia-chan-doan-ai",
-              "tu-hoc-voi-ai",
-              "luyen-tap-voi-ai",
+              {
+                "group": "Tự học với AI",
+                "pages": [
+                  "tu-hoc-voi-ai",
+                  "khao-sat-tam-li-va-ket-qua-hoc-tap",
+                  "danh-gia-chan-doan-ai"
+                ]
+              },
               "lam-bai-tap-giao-vien-giao",
               "bai-giang-va-phieu-bai-tap"
             ]
@@ -85,8 +97,7 @@
             "pages": [
               "lien-he-ho-tro"
             ]
-          },
-          "huong-dan-su-dung-hoc-sinh"
+          }
         ]
       },
       {
@@ -118,8 +129,8 @@
             "icon": "clipboard-list",
             "pages": [
               "giao-bai-tap-tong-quan",
-              "tao-bai-tap-truyen-thong",
               "tao-phieu-bai-tap-bang-ai",
+              "tao-bai-tap-truyen-thong",
               "giao-bai-cho-hoc-sinh",
               "xuat-ban-bai-tap",
               "xem-truoc-mau-phieu-bai-tap",
@@ -139,7 +150,8 @@
             "group": "Học tập",
             "icon": "book-open",
             "pages": [
-              "xem-khoa-hoc-giao-dien-hoc-sinh"
+              "xem-khoa-hoc-giao-dien-hoc-sinh",
+              "huong-dan-cach-lam-cac-dang-cau-hoi-cho-hoc-sinh"
             ]
           },
           {
