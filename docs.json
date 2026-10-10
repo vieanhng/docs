@@ -309,10 +309,12 @@
               {
                 "group": "Học tập",
                 "pages": [
+                  "nguyen-du/bat-dau-hoc-tap",
                   {
                     "group": "Tự học với AI",
                     "pages": []
-                  }
+                  },
+                  "nguyen-du/lam-bai-tap-giao-vien-giao"
                 ],
                 "icon": "book-open"
               },
