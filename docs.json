@@ -178,7 +178,7 @@
             ]
           },
           {
-            "tab": "Hướng dẫn dành cho học sinh",
+            "tab": "Hướng dẫn dành cho học sinh Nguyễn Du",
             "groups": [
               {
                 "group": "Bắt đầu",
@@ -204,7 +204,8 @@
                     ]
                   },
                   "lam-bai-tap-giao-vien-giao",
-                  "bai-giang-va-phieu-bai-tap"
+                  "bai-giang-va-phieu-bai-tap",
+                  "xem-tai-lieu-tham-khao-trong-khoa-hoc"
                 ]
               },
               {
@@ -214,6 +215,13 @@
                   "tham-gia-ky-thi",
                   "ket-qua-va-lich-su-thi"
                 ]
+              },
+              {
+                "group": "Hỗ trợ",
+                "icon": "life-ring",
+                "pages": [
+                  "lien-he-ho-tro"
+                ]
               }
             ]
           },
@@ -221,36 +229,53 @@
             "tab": "Hướng dẫn dành cho giáo viên Nguyễn Du",
             "groups": [
               {
-                "group": "Giao bài tập",
-                "pages": []
-              },
-              {
-                "group": "Xem dưới vai trò học sinh",
-                "pages": []
-              },
-              {
-                "group": "Hỗ trợ",
-                "pages": []
-              }
-            ]
-          },
-          {
-            "tab": "Hướng dẫn GV Nguyễn Du",
-            "groups": [
-              {
                 "group": "Bắt đầu",
                 "icon": "rocket",
                 "pages": [
-                  "huong-dan-su-dung-hoc-sinh"
+                  "tong-quan-giao-vien"
                 ]
               },
               {
                 "group": "Quản lý lớp học",
-                "icon": "people-group",
+                "icon": "users",
                 "pages": [
                   "danh-sach-hoc-sinh",
                   "xem-phieu-bai-tap-va-ket-qua",
                   "lich-su-lam-bai-va-lam-lai"
+                ]
+              },
+              {
+                "group": "Giao bài tập riêng cho lớp",
+                "icon": "clipboard-list",
+                "pages": [
+                  "giao-bai-tap-tong-quan",
+                  "tao-phieu-bai-tap-bang-ai",
+                  "tao-bai-tap-truyen-thong",
+                  "giao-bai-cho-hoc-sinh",
+                  "xuat-ban-bai-tap",
+                  "xem-truoc-mau-phieu-bai-tap"
+                ]
+              },
+              {
+                "group": "Xem dưới vai trò học sinh",
+                "icon": "book-open",
+                "pages": []
+              },
+              {
+                "group": "Hỗ trợ",
+                "icon": "life-ring",
+                "pages": [
+                  "lien-he-ho-tro-giao-vien"
+                ]
+              },
+              {
+                "group": "Soạn đề trong môn học",
+                "pages": []
+              },
+              {
+                "group": "Số hóa câu hỏi bằng AI",
+                "pages": [
+                  "so-hoa-cau-hoi-bang-ai"
                 ]
               }
             ]
