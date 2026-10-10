@@ -374,10 +374,16 @@
                 "pages": [
                   "nguyen-du/giao-bai-tap-tong-quan",
                   "nguyen-du/tao-phieu-bai-tap-bang-ai",
+                  "nguyen-du/tao-bai-tap-truyen-thong",
+                  "nguyen-du/giao-bai-cho-hoc-sinh",
+                  "nguyen-du/xuat-ban-bai-tap",
                   {
                     "group": "Tạo bài tập từ ngân hàng câu hỏi",
                     "icon": "database",
-                    "pages": []
+                    "pages": [
+                      "nguyen-du/tong-quan-tao-bai-tap-tu-ngan-hang",
+                      "nguyen-du/cau-hinh-bai-tap-tu-ngan-hang"
+                    ]
                   },
                   "nguyen-du/xem-truoc-mau-phieu-bai-tap",
                   "nguyen-du/xem-truoc-mau-phieu-bai-tap-hinh-minh-hoa-1",
