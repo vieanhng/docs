@@ -304,12 +304,61 @@
               },
               {
                 "group": "Học tập",
+                "pages": [
+                  {
+                    "group": "Tự học với AI",
+                    "pages": []
+                  }
+                ],
+                "icon": "book-open"
+              },
+              {
+                "group": "Kỳ thi",
+                "icon": "clipboard-check",
+                "pages": []
+              },
+              {
+                "group": "Hỗ trợ",
+                "icon": "life-ring",
                 "pages": []
               }
             ]
           },
           {
-            "tab": "Hướng dẫn dành cho giáo viên"
+            "tab": "Hướng dẫn dành cho giáo viên",
+            "groups": [
+              {
+                "group": "Bắt đầu",
+                "icon": "rocket",
+                "pages": []
+              },
+              {
+                "group": "Quản lý lớp học",
+                "icon": "users",
+                "pages": []
+              },
+              {
+                "group": "Giao bài tập",
+                "icon": "clipboard-list",
+                "pages": [
+                  {
+                    "group": "Tạo bài tập từ ngân hàng câu hỏi",
+                    "icon": "database",
+                    "pages": []
+                  }
+                ]
+              },
+              {
+                "group": "Học tập",
+                "icon": "book-open",
+                "pages": []
+              },
+              {
+                "group": "Hỗ trợ",
+                "icon": "life-ring",
+                "pages": []
+              }
+            ]
           }
         ]
       }
