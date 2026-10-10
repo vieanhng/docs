@@ -300,7 +300,11 @@
               {
                 "group": "Bắt đầu",
                 "icon": "rocket",
-                "pages": []
+                "pages": [
+                  "nguyen-du/khuyen-nghi-su-dung-lms",
+                  "nguyen-du/dang-nhap",
+                  "nguyen-du/huong-dan-su-dung-hoc-sinh"
+                ]
               },
               {
                 "group": "Học tập",
@@ -315,12 +319,17 @@
               {
                 "group": "Kỳ thi",
                 "icon": "clipboard-check",
-                "pages": []
+                "pages": [
+                  "nguyen-du/tham-gia-ky-thi",
+                  "nguyen-du/ket-qua-va-lich-su-thi"
+                ]
               },
               {
                 "group": "Hỗ trợ",
                 "icon": "life-ring",
-                "pages": []
+                "pages": [
+                  "nguyen-du/lien-he-ho-tro"
+                ]
               }
             ]
           },
