@@ -383,10 +383,16 @@
                     "icon": "database",
                     "pages": [
                       "nguyen-du/tong-quan-tao-bai-tap-tu-ngan-hang",
+                      "nguyen-du/them-cau-hoi-tu-ngan-hang",
                       "nguyen-du/cau-hinh-bai-tap-tu-ngan-hang",
                       "nguyen-du/giao-va-xuat-ban-bai-tap-ngan-hang",
                       "nguyen-du/giao-va-xuat-ban-bai-tap-ngan-hang-hinh-minh-hoa-1",
-                      "nguyen-du/giao-va-xuat-ban-bai-tap-ngan-hang-hinh-minh-hoa-2"
+                      "nguyen-du/giao-va-xuat-ban-bai-tap-ngan-hang-hinh-minh-hoa-2",
+                      "nguyen-du/them-cau-hoi-tu-ngan-hang-hinh-minh-hoa-1",
+                      "nguyen-du/them-cau-hoi-tu-ngan-hang-hinh-minh-hoa-2",
+                      "nguyen-du/them-cau-hoi-tu-ngan-hang-hinh-minh-hoa-3",
+                      "nguyen-du/them-cau-hoi-tu-ngan-hang-hinh-minh-hoa-4",
+                      "nguyen-du/them-cau-hoi-tu-ngan-hang-hinh-minh-hoa-5"
                     ]
                   },
                   "nguyen-du/xem-truoc-mau-phieu-bai-tap",
