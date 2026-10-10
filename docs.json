@@ -378,7 +378,10 @@
                     "group": "Tạo bài tập từ ngân hàng câu hỏi",
                     "icon": "database",
                     "pages": []
-                  }
+                  },
+                  "nguyen-du/xem-truoc-mau-phieu-bai-tap",
+                  "nguyen-du/xem-truoc-mau-phieu-bai-tap-hinh-minh-hoa-1",
+                  "nguyen-du/xem-truoc-mau-phieu-bai-tap-hinh-minh-hoa-2"
                 ]
               },
               {
