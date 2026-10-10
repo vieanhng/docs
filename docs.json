@@ -312,10 +312,16 @@
                   "nguyen-du/bat-dau-hoc-tap",
                   {
                     "group": "Tự học với AI",
-                    "pages": []
+                    "pages": [
+                      "nguyen-du/tu-hoc-voi-ai",
+                      "nguyen-du/khao-sat-tam-li-va-ket-qua-hoc-tap",
+                      "nguyen-du/danh-gia-chan-doan-ai",
+                      "nguyen-du/xem-lich-su-cac-luot-hoc-voi-ai"
+                    ]
                   },
                   "nguyen-du/lam-bai-tap-giao-vien-giao",
-                  "nguyen-du/bai-giang-va-phieu-bai-tap"
+                  "nguyen-du/bai-giang-va-phieu-bai-tap",
+                  "nguyen-du/bai-giang-va-phieu-bai-tap-tiep-theo"
                 ],
                 "icon": "book-open"
               },
