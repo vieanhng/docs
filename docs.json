@@ -363,6 +363,7 @@
                   "nguyen-du/danh-sach-hoc-sinh",
                   "nguyen-du/xem-phieu-bai-tap-va-ket-qua",
                   "nguyen-du/lich-su-lam-bai-va-lam-lai",
+                  "nguyen-du/xuat-du-lieu-diem",
                   "nguyen-du/xem-phieu-bai-tap-va-ket-qua-hinh-minh-hoa-1",
                   "nguyen-du/xem-phieu-bai-tap-va-ket-qua-hinh-minh-hoa-2",
                   "nguyen-du/xem-phieu-bai-tap-va-ket-qua-hinh-minh-hoa-3"
@@ -393,12 +394,17 @@
               {
                 "group": "Học tập",
                 "icon": "book-open",
-                "pages": []
+                "pages": [
+                  "nguyen-du/xem-khoa-hoc-giao-dien-hoc-sinh",
+                  "nguyen-du/huong-dan-cach-lam-cac-dang-cau-hoi-cho-hoc-sinh"
+                ]
               },
               {
                 "group": "Hỗ trợ",
                 "icon": "life-ring",
-                "pages": []
+                "pages": [
+                  "nguyen-du/lien-he-ho-tro-giao-vien"
+                ]
               }
             ]
           }
