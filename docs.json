@@ -348,17 +348,28 @@
               {
                 "group": "Bắt đầu",
                 "icon": "rocket",
-                "pages": []
+                "pages": [
+                  "nguyen-du/tong-quan-giao-vien",
+                  "nguyen-du/khuyen-nghi-su-dung-lms-giao-vien",
+                  "nguyen-du/dang-nhap-giao-vien",
+                  "nguyen-du/chuyen-sang-che-do-giao-vien",
+                  "nguyen-du/truy-cap-khoa-hoc-giao-vien"
+                ]
               },
               {
                 "group": "Quản lý lớp học",
                 "icon": "users",
-                "pages": []
+                "pages": [
+                  "nguyen-du/danh-sach-hoc-sinh",
+                  "nguyen-du/lich-su-lam-bai-va-lam-lai"
+                ]
               },
               {
                 "group": "Giao bài tập",
                 "icon": "clipboard-list",
                 "pages": [
+                  "nguyen-du/giao-bai-tap-tong-quan",
+                  "nguyen-du/tao-phieu-bai-tap-bang-ai",
                   {
                     "group": "Tạo bài tập từ ngân hàng câu hỏi",
                     "icon": "database",
