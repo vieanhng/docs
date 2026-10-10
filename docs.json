@@ -361,7 +361,11 @@
                 "icon": "users",
                 "pages": [
                   "nguyen-du/danh-sach-hoc-sinh",
-                  "nguyen-du/lich-su-lam-bai-va-lam-lai"
+                  "nguyen-du/xem-phieu-bai-tap-va-ket-qua",
+                  "nguyen-du/lich-su-lam-bai-va-lam-lai",
+                  "nguyen-du/xem-phieu-bai-tap-va-ket-qua-hinh-minh-hoa-1",
+                  "nguyen-du/xem-phieu-bai-tap-va-ket-qua-hinh-minh-hoa-2",
+                  "nguyen-du/xem-phieu-bai-tap-va-ket-qua-hinh-minh-hoa-3"
                 ]
               },
               {
