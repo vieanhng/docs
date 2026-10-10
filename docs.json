@@ -163,6 +163,156 @@
           }
         ]
       }
+    ],
+    "products": [
+      {
+        "product": "Hướng dẫn chung",
+        "tabs": [
+          {
+            "tab": "Tra cứu tài liệu",
+            "pages": [
+              "huong-dan-tra-cuu-tai-lieu"
+            ]
+          },
+          {
+            "tab": "Hướng dẫn dành cho học sinh",
+            "pages": [
+              {
+                "group": "Bắt đầu",
+                "icon": "rocket",
+                "pages": [
+                  "huong-dan-su-dung-hoc-sinh",
+                  "khuyen-nghi-su-dung-lms",
+                  "dang-nhap"
+                ]
+              },
+              {
+                "group": "Học tập",
+                "icon": "book-open",
+                "pages": [
+                  "bat-dau-hoc-tap",
+                  {
+                    "group": "Tự học với AI",
+                    "pages": [
+                      "tu-hoc-voi-ai",
+                      "khao-sat-tam-li-va-ket-qua-hoc-tap",
+                      "danh-gia-chan-doan-ai",
+                      "xem-lich-su-cac-luot-hoc-voi-ai"
+                    ]
+                  },
+                  "lam-bai-tap-giao-vien-giao",
+                  "bai-giang-va-phieu-bai-tap"
+                ]
+              },
+              {
+                "group": "Kỳ thi",
+                "icon": "clipboard-check",
+                "pages": [
+                  "tham-gia-ky-thi",
+                  "ket-qua-va-lich-su-thi"
+                ]
+              },
+              {
+                "group": "Hỗ trợ",
+                "icon": "life-ring",
+                "pages": [
+                  "lien-he-ho-tro"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "Hướng dẫn dành cho giáo viên",
+            "groups": [
+              {
+                "group": "Bắt đầu",
+                "icon": "rocket",
+                "pages": [
+                  "tong-quan-giao-vien",
+                  "khuyen-nghi-su-dung-lms-giao-vien",
+                  "dang-nhap-giao-vien",
+                  "chuyen-sang-che-do-giao-vien",
+                  "truy-cap-khoa-hoc-giao-vien"
+                ]
+              },
+              {
+                "group": "Quản lý lớp học",
+                "icon": "users",
+                "pages": [
+                  "danh-sach-hoc-sinh",
+                  "xem-phieu-bai-tap-va-ket-qua",
+                  "lich-su-lam-bai-va-lam-lai"
+                ]
+              },
+              {
+                "group": "Giao bài tập",
+                "icon": "clipboard-list",
+                "pages": [
+                  "giao-bai-tap-tong-quan",
+                  "tao-phieu-bai-tap-bang-ai",
+                  "tao-bai-tap-truyen-thong",
+                  "giao-bai-cho-hoc-sinh",
+                  "xuat-ban-bai-tap",
+                  "xem-truoc-mau-phieu-bai-tap",
+                  {
+                    "group": "Tạo bài tập từ ngân hàng câu hỏi",
+                    "icon": "database",
+                    "pages": [
+                      "tong-quan-tao-bai-tap-tu-ngan-hang",
+                      "them-cau-hoi-tu-ngan-hang",
+                      "cau-hinh-bai-tap-tu-ngan-hang",
+                      "giao-va-xuat-ban-bai-tap-ngan-hang"
+                    ]
+                  }
+                ]
+              },
+              {
+                "group": "Học tập",
+                "icon": "book-open",
+                "pages": [
+                  "xem-khoa-hoc-giao-dien-hoc-sinh",
+                  "huong-dan-cach-lam-cac-dang-cau-hoi-cho-hoc-sinh"
+                ]
+              },
+              {
+                "group": "Hỗ trợ",
+                "icon": "life-ring",
+                "pages": [
+                  "lien-he-ho-tro-giao-vien"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "product": "Hướng dẫn dành riêng THCS Nguyễn Du",
+        "tabs": [
+          {
+            "tab": "Tra cứu tài liệu",
+            "pages": [
+              "huong-dan-tra-cuu-tai-lieu-2"
+            ]
+          },
+          {
+            "tab": "Hướng dẫn dành cho học sinh",
+            "groups": [
+              {
+                "group": "Bắt đầu",
+                "icon": "rocket",
+                "pages": []
+              },
+              {
+                "group": "Học tập",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "tab": "Hướng dẫn dành cho giáo viên"
+          }
+        ]
+      }
     ]
   }
 }
