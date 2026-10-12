@@ -179,8 +179,41 @@
           },
           {
             "tab": "Hướng dẫn dành cho admin trường",
-            "pages": [
-              "untitled-page"
+            "groups": [
+              {
+                "group": "Bắt đầu",
+                "icon": "rocket",
+                "pages": [
+                  "untitled-page",
+                  "dang-nhap-2"
+                ]
+              },
+              {
+                "group": "Quản lý nội dung",
+                "pages": [
+                  "tao-folder-ngan-hang-trong-quan-ly-noi-dung",
+                  "chia-se-folder-ngan-hang-cau-hoi",
+                  "tao-cau-hoi-trong-ngan-hang-cau-hoi",
+                  "so-hoa-cau-hoi-bang-ai-vao-ngan-hang-cau-hoi"
+                ]
+              },
+              {
+                "group": "Kì thi",
+                "pages": [
+                  "quy-trinh-to-chuc-ki-thi",
+                  {
+                    "group": "Đề thi",
+                    "pages": [
+                      "tao-de-thi-le",
+                      "tao-de-thi-tron-tu-ngan-hang"
+                    ]
+                  },
+                  {
+                    "group": "Tổ chức thi",
+                    "pages": []
+                  }
+                ]
+              }
             ]
           }
         ]
