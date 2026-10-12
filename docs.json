@@ -64,7 +64,7 @@
                 "group": "Bắt đầu",
                 "icon": "rocket",
                 "pages": [
-                  "tong-quan-huong-dan-su-dung-danh-cho-hoc-sinh-nguyen-du",
+                  "huong-dan-su-dung-hoc-sinh",
                   "khuyen-nghi-su-dung-lms",
                   "dang-nhap"
                 ]
@@ -192,7 +192,7 @@
                 "group": "Bắt đầu",
                 "icon": "rocket",
                 "pages": [
-                  "huong-dan-su-dung-hoc-sinh",
+                  "tong-quan-huong-dan-su-dung-danh-cho-hoc-sinh-nguyen-du",
                   "khuyen-nghi-su-dung-lms",
                   "dang-nhap"
                 ]
