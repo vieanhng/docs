@@ -184,6 +184,7 @@
                 "group": "Bắt đầu",
                 "icon": "rocket",
                 "pages": [
+                  "tong-quan-admin",
                   "dang-nhap-2"
                 ]
               },
