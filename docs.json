@@ -184,7 +184,7 @@
                 "group": "Bắt đầu",
                 "icon": "rocket",
                 "pages": [
-                  "untitled-page",
+                  "tao-va-cau-hinh-ki-thi-co-ban",
                   "dang-nhap-2"
                 ]
               },
@@ -210,7 +210,9 @@
                   },
                   {
                     "group": "Tổ chức thi",
-                    "pages": []
+                    "pages": [
+                      "tao-va-cau-hinh-ki-thi-co-ban"
+                    ]
                   }
                 ]
               }
