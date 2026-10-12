@@ -165,7 +165,8 @@
                 "pages": [
                   "kiem-tra-de",
                   "giam-sat-thi"
-                ]
+                ],
+                "icon": "clipboard-list-check"
               },
               {
                 "group": "Hỗ trợ",
