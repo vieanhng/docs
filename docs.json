@@ -177,7 +177,10 @@
             ]
           },
           {
-            "tab": "Hướng dẫn dành cho admin trường"
+            "tab": "Hướng dẫn dành cho admin trường",
+            "pages": [
+              "untitled-page"
+            ]
           }
         ]
       }
