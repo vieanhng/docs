@@ -64,7 +64,7 @@
                 "group": "Bắt đầu",
                 "icon": "rocket",
                 "pages": [
-                  "huong-dan-su-dung-hoc-sinh",
+                  "tong-quan-huong-dan-su-dung-danh-cho-hoc-sinh-nguyen-du",
                   "khuyen-nghi-su-dung-lms",
                   "dang-nhap"
                 ]
@@ -114,14 +114,14 @@
                   "tong-quan-giao-vien",
                   "khuyen-nghi-su-dung-lms-giao-vien",
                   "dang-nhap-giao-vien",
-                  "chuyen-sang-che-do-giao-vien",
-                  "truy-cap-khoa-hoc-giao-vien"
+                  "chuyen-sang-che-do-giao-vien"
                 ]
               },
               {
                 "group": "Quản lý lớp học",
                 "icon": "users",
                 "pages": [
+                  "truy-cap-khoa-hoc-giao-vien",
                   "danh-sach-hoc-sinh",
                   "xem-phieu-bai-tap-va-ket-qua",
                   "lich-su-lam-bai-va-lam-lai"
@@ -150,6 +150,14 @@
                 ]
               },
               {
+                "group": "Tạo, chỉnh sửa các dạng câu hỏi",
+                "icon": "clipboard-question",
+                "pages": [
+                  "so-hoa-cau-hoi-bang-ai",
+                  "tao-va-chinh-sua-cac-dang-cau-hoi"
+                ]
+              },
+              {
                 "group": "Xem dưới vai trò học sinh",
                 "icon": "book-open",
                 "pages": [
@@ -172,7 +180,7 @@
         "product": "Hướng dẫn dành riêng THCS Nguyễn Du",
         "tabs": [
           {
-            "tab": "Tra cứu tài lệu",
+            "tab": "Tra cứu tài liệu",
             "pages": [
               "huong-dan-tra-cuu-tai-lieu-2"
             ]
@@ -232,13 +240,17 @@
                 "group": "Bắt đầu",
                 "icon": "rocket",
                 "pages": [
-                  "tong-quan-giao-vien"
+                  "tong-quan-huong-dan-danh-cho-giao-vien-nguyen-du",
+                  "khuyen-nghi-su-dung-lms-giao-vien",
+                  "dang-nhap-giao-vien",
+                  "chuyen-sang-che-do-giao-vien"
                 ]
               },
               {
                 "group": "Quản lý lớp học",
                 "icon": "users",
                 "pages": [
+                  "truy-cap-khoa-hoc-giao-vien",
                   "danh-sach-hoc-sinh",
                   "xem-phieu-bai-tap-va-ket-qua",
                   "lich-su-lam-bai-va-lam-lai"
@@ -259,23 +271,31 @@
               {
                 "group": "Xem dưới vai trò học sinh",
                 "icon": "book-open",
-                "pages": []
+                "pages": [
+                  "xem-khoa-hoc-giao-dien-hoc-sinh"
+                ]
+              },
+              {
+                "group": "Thêm đề ôn tập chung cho học sinh",
+                "icon": "blanket",
+                "pages": [
+                  "them-de-on-tap-chung-cho-hoc-sinh",
+                  "huong-dan-them-cac-loai-hoc-lieu"
+                ]
+              },
+              {
+                "group": "Tạo, chỉnh sửa các dạng câu hỏi",
+                "icon": "clipboard-question",
+                "pages": [
+                  "so-hoa-cau-hoi-bang-ai",
+                  "tao-va-chinh-sua-cac-dang-cau-hoi"
+                ]
               },
               {
                 "group": "Hỗ trợ",
                 "icon": "life-ring",
                 "pages": [
                   "lien-he-ho-tro-giao-vien"
-                ]
-              },
-              {
-                "group": "Soạn đề trong môn học",
-                "pages": []
-              },
-              {
-                "group": "Số hóa câu hỏi bằng AI",
-                "pages": [
-                  "so-hoa-cau-hoi-bang-ai"
                 ]
               }
             ]
