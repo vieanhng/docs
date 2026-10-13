@@ -209,9 +209,19 @@
                     ]
                   },
                   {
-                    "group": "Tổ chức thi",
+                    "group": "Thiết lập kì thi",
                     "pages": [
-                      "tao-va-cau-hinh-ki-thi-co-ban"
+                      "tao-va-cau-hinh-ki-thi-co-ban",
+                      {
+                        "group": "Thiết lập thành phần trong kì thi",
+                        "pages": [
+                          "thiet-lap-mon-thi-de-thi-trong-ky-thi",
+                          "thiet-lap-ca-thi-trong-ky-thi",
+                          "phan-cong-kiem-tra-de-giam-sat-thi",
+                          "thiet-lap-quy-dinh-thi"
+                        ]
+                      },
+                      "huong-dan-them-thoi-gian-thi-cho-thi-sinh-trong-qua-trinh-thi"
                     ]
                   }
                 ]
