@@ -1,5 +1,103 @@
 ---
 title: "Chia sẻ folder, ngân hàng câu hỏi"
+description: "Tính năng Chia sẻ nội dung cho phép bạn cấp quyền truy cập các thư mục/tài liệu cho người dùng, đơn vị, nhóm thông minh hoặc lớp học với các mức quyền khác nhau."
 ---
 
-Nội dung đang cập nhật
+### **Bước 1: Truy cập Quản lý nội dung**
+
+- Từ menu bên trái, chọn **HỌC LIỆU** → **Quản lý nội dung**.
+- Giao diện hiển thị danh sách các thư mục và tài liệu của bạn.
+
+![Image](/images/image-209.png "Image")
+
+### **Bước 2: Chọn nội dung cần chia sẻ**
+
+- Tìm thư mục hoặc tài liệu cần chia sẻ trong danh sách (ví dụ: thư mục **2024**).
+- **Nhấp chuột phải** vào mục cần chia sẻ để mở menu ngữ cảnh.
+- Trong menu ngữ cảnh, chọn **Chia sẻ** → **Chia sẻ**.
+- Hộp thoại **"Cài đặt chia sẻ cho [tên thư mục]"** sẽ hiện ra.
+
+![Image](/images/image-210.png "Image")
+
+### **Bước 3: Thêm cấu hình chia sẻ**
+
+- Nhấn nút **\+ Thêm** trong phần **Cài đặt đặc biệt**.
+
+![Image](/images/image-211.png "Image")
+
+### **Bước 4: Chọn hình thức chia sẻ**
+
+Hệ thống hỗ trợ **4 hình thức** chia sẻ:
+
+![Image](/images/image-212.png "Image")
+
+<table>
+  <colgroup>
+    <col width="180" />
+    <col width="644" />
+  </colgroup>
+  <thead>
+    <tr>
+      <th style={{ textAlign: "start" }}>Hình thức</th>
+      <th style={{ textAlign: "start" }}>Mô tả</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style={{ textAlign: "start" }}>**Theo đơn vị**</td>
+      <td style={{ textAlign: "start" }}>Chia sẻ cho toàn bộ đơn vị/tổ chức (ví dụ: aeglobal)</td>
+    </tr>
+    <tr>
+      <td style={{ textAlign: "start" }}>**Theo người dùng**</td>
+      <td style={{ textAlign: "start" }}>Chia sẻ cho từng cá nhân cụ thể</td>
+    </tr>
+    <tr>
+      <td style={{ textAlign: "start" }}>**Theo nhóm thông minh**</td>
+      <td style={{ textAlign: "start" }}>Chia sẻ cho nhóm người dùng đã được định nghĩa trước</td>
+    </tr>
+    <tr>
+      <td style={{ textAlign: "start" }}>**Theo lớp học**</td>
+      <td style={{ textAlign: "start" }}>Chia sẻ cho một khóa học/lớp học cụ thể</td>
+    </tr>
+  </tbody>
+</table>
+
+### **Bước 5: Chọn đối tượng và cấp quyền**
+
+**a) Chọn đối tượng:**
+
+- **Theo đơn vị:** Chọn đơn vị từ danh sách dropdown.
+- **Theo người dùng:** Nhập tên, ID, email hoặc số điện thoại để tìm kiếm và chọn người dùng.
+- **Theo nhóm thông minh:** Chọn nhóm từ danh sách gợi ý.
+- **Theo lớp học:** Tìm và chọn khóa học cần gán.
+
+**b) Thiết lập quyền truy cập:**<br />Đánh dấu các quyền phù hợp trong phần **Quyền truy cập**:
+
+- **Dùng để ra đề / tổ chức thi** (không xem nội dung). _(chức năng đang phát triển)_
+- **Xem nội dung** – Cho phép xem nội dung thư mục.
+- **Biên soạn** – Cho phép tạo/sửa nội dung.
+- **Biên tập** – Cho phép chỉnh sửa nội dung. Cho phép chuyển trạng thái Đã biên tập cho câu hỏi
+- **Bình luận** – Cho phép bình luận
+- **Duyệt** – Cho phép chuyển trạng thái Duyệt/Loại câu hỏi trong ngân hàng
+- **Cho tải xuống** – Cho phép tải tài liệu về
+
+> **Lưu ý:** Ô được đánh dấu **(\*)** là bắt buộc phải chọn ít nhất một quyền.
+
+Trong hộp thoại **Cài đặt chia sẻ**, phần **Cài đặt chung** có một dropdown với **3 lựa chọn** để xác định mức độ truy cập tổng quát cho nội dung được chia sẻ:
+
+### **Bước 6: Các tùy chọn Cài đặt chung**
+
+![Image](/images/image-213.png "Image")
+
+| Tùy chọn | Mô tả |
+| --- | --- |
+| **Theo cài đặt đặc biệt** | Áp dụng theo các cấu hình chi tiết đã thiết lập ở phần "Cài đặt đặc biệt" bên trên (theo đơn vị, người dùng, nhóm thông minh, hoặc lớp học). Đây là **mặc định** của hệ thống. |
+| **Phải đăng nhập** | Bất kỳ ai đã đăng nhập vào hệ thống LMS đều có thể truy cập nội dung này, không cần cấu hình riêng theo từng đối tượng. |
+| **Công khai** | Nội dung được mở hoàn toàn, bất kỳ ai (kể cả người chưa đăng nhập) đều có thể truy cập. |
+
+### **Bước 7: Lưu cài đặt**
+
+- Nhấn nút **Lưu** ở cuối hộp thoại.
+- Hệ thống hiển thị thông báo **"Thao tác thành công!"** và **"Yêu cầu thành công"** xác nhận việc chia sẻ đã hoàn tất.
+
+<br />
