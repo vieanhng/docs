@@ -111,6 +111,12 @@
                 ]
               },
               {
+                "group": "Tài khoản",
+                "pages": [
+                  "thay-doi-mat-khau-cho-tai-khoan"
+                ]
+              },
+              {
                 "group": "Quản lý lớp học",
                 "icon": "users",
                 "pages": [
@@ -199,6 +205,7 @@
               {
                 "group": "Quản lý tài khoản",
                 "pages": [
+                  "thay-doi-mat-khau-cho-tai-khoan",
                   "doi-mat-khau-cho-tai-khoan"
                 ]
               },
