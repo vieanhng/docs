@@ -57,6 +57,12 @@
                 ]
               },
               {
+                "group": "Tài khoản",
+                "pages": [
+                  "thay-doi-mat-khau-cho-tai-khoan"
+                ]
+              },
+              {
                 "group": "Học tập",
                 "icon": "book-open",
                 "pages": [
@@ -186,7 +192,14 @@
                 "icon": "rocket",
                 "pages": [
                   "tong-quan-admin",
-                  "dang-nhap-2"
+                  "dang-nhap-2",
+                  "truy-cap-giao-dien-quan-tri"
+                ]
+              },
+              {
+                "group": "Quản lý tài khoản",
+                "pages": [
+                  "doi-mat-khau-cho-tai-khoan"
                 ]
               },
               {
